@@ -1,0 +1,3 @@
+https://wooordhunt.ru/
+
+//*[@id="hunted_word_submit"]
